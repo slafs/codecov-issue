@@ -9,3 +9,5 @@ def my_other_function(b):
     print('invoking my other function')
     return b
 
+def my_new_function(c):
+    return c
